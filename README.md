@@ -28,4 +28,3 @@ A prototype UI designed using *Figma* to visualize the user interface for the sm
 ### Task 3: Customer Journey Map
 Developed to outline and empathize with the user experience, showing their interactions from discovering to using our smart home system.
 
-## Repository Structure
